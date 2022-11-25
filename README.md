@@ -13,7 +13,7 @@ Industry :
 Health
 
 Project Title :
-CovidSure Covid-19 Chatbot
+Covid-19 CovidSure Chatbot
 
 Problem Statement/Opportunity :
 CovidSure will help you to get all the information related to Covid-19 with the help of ChatBot.
