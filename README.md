@@ -1,4 +1,4 @@
-# CovidSure Covid-19 FAQ Chatbot
+# Covid-19 CovidSure FAQ Chatbot
 Project Demo Video URL ==> https://youtu.be/jlP3q6_zUXM
 
 In the Website, we have created a ChatBot using Azure Services in which you can ask any quries related to Covid-19 and it will answer them.
