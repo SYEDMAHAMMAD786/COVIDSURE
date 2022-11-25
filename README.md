@@ -16,10 +16,10 @@ Project Title :
 Covid-19 CovidSure Chatbot
 
 Problem Statement/Opportunity :
-CovidSure will help you to get all the information related to Covid-19 with the help of ChatBot.
+Covid-19 CovidSure will help you to get all the information related to Covid-19 with the help of ChatBot.
 
 Project Description :
-CovidSure is a website in which you can connect to a chatbot and ask all queries related to Covid 19 and it will answer your questions.
+Covid-19 CovidSure is a website in which you can connect to a chatbot and ask all queries related to Covid 19 and it will answer your questions.
 
 Primary Azure Technology :
 Azure Bot Service, QnA Maker, Static Web Apps
