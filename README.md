@@ -25,3 +25,4 @@ Primary Azure Technology :
 Azure Bot Service, QnA Maker, Static Web Apps
 
 
+![image](https://user-images.githubusercontent.com/114811061/203911466-ac0df967-e243-41d1-a2d6-f277798ef592.png)
