@@ -23,6 +23,7 @@ Covid-19 CovidSure is a website in which you can connect to a chatbot and ask al
 
 Primary Azure Technology :
 Azure Bot Service, QnA Maker, Static Web Apps
+![COVIDSURE](https://user-images.githubusercontent.com/114811061/206922065-8eb8b630-ce19-42dc-9118-fdf4fff522b9.png)
 
 
-![image](https://user-images.githubusercontent.com/114811061/203911466-ac0df967-e243-41d1-a2d6-f277798ef592.png)
+
